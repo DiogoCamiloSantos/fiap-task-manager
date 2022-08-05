@@ -15,3 +15,6 @@ Iniciar:
 npm run dev
 
 Abrir em [http://localhost:3000].
+
+Base de dados Mongodb:
+criar database "db-81aoj-gerenciador-tarefas"
